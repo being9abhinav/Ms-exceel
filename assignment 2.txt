@@ -1,0 +1,54 @@
+1. What does the dollar($) sign do?
+Ans. The Dollar signs are used for indicating Absolute References.
+
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+Ans. To change the type of cell reference:
+
+    		Select the cell that contains the formula.
+
+		In the formula bar Button image, select the reference that you want to change.
+
+		Press F4 to switch between the reference types.
+
+3. Explain the order of operations in excel?
+Ans. Excel perform the operation by following the PEMDAS rules.
+     Excel will calculate anything in parentheses first. 
+     After parenthesis is calculated excel will perform exponential calculation like 2^2
+     Next, it will do division and multiplication. 
+     And then, last, it performs addition and subtraction.
+
+4. What, according to you, are the top 5 functions in excel and write a basic syntax
+   for any of two?
+Ans. The top function according to me are as below:
+		1. SUM():-It usually aggregates values from a selection of columns or rows from our selected range.
+                      SYNTAX:-
+                             =SUM(number1, [number2], …)
+		
+		2. AVERAGE():-The average function is an extremely useful tool for getting the average value in a range of cells.
+                          SYNTAX:-
+                              “AVERAGE” (number1, number2, etc.).
+
+            3. COUNT():-The COUNT function counts all cells in a given range that contain only numeric values.
+                       SYNTAX:-  
+                       =COUNT(value1, [value2], …)
+		
+		4. TEXT():-Text function is a useful tool that helps convert a date (or number) into a text string in a particular format.
+                       SYNTAX:-
+                             “=TEXT” (value, format_text).
+         
+            5. VLOOKUP():-The VLOOKUP function searches for a specific value in a dataset.
+                          If it finds it, it returns another value from a different column in the same row.
+                          SYNTAX:-
+                               “=VLOOKUP” (lookup_value, table_array, col_index_num, *range_lookup*).
+
+5. When would you use the subtotal function?
+Ans. The Excel SUBTOTAL function returns an aggregate calculation for supplied values. 
+     Despite the name, SUBTOTAL can perform a variety of calculations, including SUM, AVERAGE, COUNT, MAX, MIN, and others.
+
+6. What is the syntax of the vlookup function? Explain the terms in it?
+Ans. SYNTAX:-
+                               “=VLOOKUP” (lookup_value, table_array, col_index_num, *range_lookup*).
+		“lookup_value” is the data you want to find.
+		“table_array” is the data column where you want to limit your search.
+		“col_index_num” is the column number within the table that you want to return a value from.
+		“range_lookup” is an optional argument that allows you to search for the exact match of your lookup value without sorting the table.
