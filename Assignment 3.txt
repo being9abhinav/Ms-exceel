@@ -1,0 +1,46 @@
+1. How and when to use the AutoSum command in excel?
+Ans. AutoSum command is used when we need to sum a column or row of numbers.
+     It allows you to easily add up a series of numbers either vertically or 
+     horizontally without having to use the mouse or even the arrow keys on the keyboard.
+     Steps to apply autosum:-
+     1. Select a cell next to the numbers you want to sum, click AutoSum on the Home tab, press Enter, and you’re done.
+     2. Or Hold down the Alt key and then press the equals = sign while still holding Alt.
+
+2. What is the shortcut key to perform AutoSum?
+Ans. The shortcut to perform autosum is:-
+                   Hold down the Alt key and then press the equals = sign while still holding Alt.
+
+3. How do you get rid of Formula that omits adjacent cells?
+Ans. To turn off the “Formula Omits Adjacent Cells” message that you’re receiving, please follow the below steps:
+       1. Excel should be opened, and then the File menu should be selected.
+       2. Select Formulas from the drop-down menu under Options.
+       3. Investigate the existence of Error checking rules and uncheck Formulas that omit cells in an area.
+       4. To proceed, click OK.
+
+4. How do you select non-adjacent cells in Excel 2016?
+Ans. The easiest way to select non-adjacent ranges is by using the mouse.Below is how to select two non-adjacent range of cells:
+
+               1.Click on the first cell that you want to be selected. This will now become the active cell
+               2.Hold the Control key on your keyboard
+               3.Left-click on the mouse and drag to make the selection
+               4.Leave the mouse click. At this point, you would have a selection. Continue to hold the Control key
+               5.Place the cursor on the second cell/range that you want to select
+               6.Left-click on the mouse and drag to make the selection
+               7.Leave the mouse click. This would select two non-contiguous range of cells.
+		   8.Release the Control key
+
+5. What happens if you choose a column, hold down the Alt key and press the letters
+   ocw in quick succession?
+Ans. If you choose a column, hold down the Alt key and press the letters ocw in quick succession
+     a popup appears which helps in the changing the column width.
+
+6. If you right-click on a row reference number and click on Insert, where will the row
+   be added?
+Ans. If you right-click on a row reference number and click on Insert a new row will be added above the selected row
+     reference number.
+
+
+
+
+
+      
