@@ -1,0 +1,46 @@
+1. How many types of conditions are available in conditional formatting on Excel?
+Ans. There are 5 types of conditional formatting visualizations available:
+
+		1.Background Color Shading (of cells)
+		2.Foreground Color Shading (of fonts)
+		3.Data Bars
+		4.Icons
+		5.Values
+
+2. How to insert border in Excel with Format Cells dialog?
+Ans.The fastest way to make a border in Excel is to apply one of the inbuilt options directly from the ribbon. Here's how:
+
+		1.Select a cell or a range of cells to which you want to add borders.
+		2.On the Home tab, in the Font group, click the down arrow next to the Borders button, and you will see a list of the most popular border types.
+		3.Click the border you want to apply, and it will be immediately added to the selected cells.
+
+3. How to Format Numbers as Currency in Excel?
+Ans. The steps to format numbers as currency in excel are as follows:-
+		1.Select the range of cells that you want to Format.
+		2. Select the range of cells that you want to Format.
+		3. Now, Click on the Currency option from the given list.
+
+	You will see that the currency symbol ( ₹ ) has appeared just before the
+	first digit in the cell and the decimal points are aligned.
+Note: Shortcut key for formatting numbers as currency is Ctrl+Shift+4.
+
+4. What are the steps to format numbers in Excel with the Percent style?
+Ans.The steps to format numbers in Excel with the Percent style are as follows:-
+		1.On the Home tab, in the Number group, click the icon next to Number to display the Format Cells dialog box.
+		2.In the Format Cells dialog box, in the Category list, click Percentage.
+		3.In the Decimal places box, enter the number of decimal places that you want to display. 
+		   For example, if you want to see 10% instead of 10.00%, enter 0 in the Decimal places box.
+
+5. What is a shortcut to merge two or more cells in excel?	
+Ans. ALT H+M+M is a shortcut to merge two or more cells in excel.
+
+6. How do you use text commands in Excel?
+Ans. The TEXT function lets you change the way a number appears by applying formatting to it with format codes.
+     It's useful in situations where you want to display numbers in a more readable format, or you want to 
+     combine numbers with text or symbols.
+     In its simplest form, the TEXT function says:
+
+                      =TEXT(Value you want to format, "Format code you want to apply")
+	For eg:- =TEXT(TODAY(),"DDDD")
+
+                 which refers Today’s day of the week, like Monday
